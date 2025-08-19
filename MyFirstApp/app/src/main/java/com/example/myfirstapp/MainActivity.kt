@@ -42,6 +42,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     MyFirstAppTheme {
-        Greeting("Android sugan hi local data now im going to pull you sugan branch added sugan")
+        Greeting("Android sugan hi local data now im going to pull you sugan branch added sugan daaaaa")
     }
 }
